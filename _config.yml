@@ -1,2 +1,17 @@
 name: Aperture f16, Sunny Exposure
 markdown: kramdown
+
+baseurl:
+permalink: /blog/:year/:month/:day/:title
+exlude:
+
+collections:
+  modules:
+    output:
+  courses:
+    output:
+
+include:
+- _stylesheets
+
+lang: en
