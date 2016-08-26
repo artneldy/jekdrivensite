@@ -1,7 +1,9 @@
 name: Aperture f16, Sunny Exposure
 markdown: kramdown
 
-baseurl:
+baseurl: /aperturef16/
+domain_name: 'https://artneldy.github.io'
+
 permalink: /blog/:year/:month/:day/:title
 exlude:
 
